@@ -1,4 +1,4 @@
-title: Stackbit Fresh Theme
+title: Blog - Anshaj
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -8,7 +8,7 @@ layout_style: overflow
 palette: blue
 header:
   title: Anshaj Khare
-  tagline: "Works as a data scientist.\r\nTechnologically audacious.  Loves writing code and working with data. "
+  tagline: "Works as a data scientist.\r\nTechnologically audacious.\nLoves writing code and working with data. "
   profile_img: >-
     https://res.cloudinary.com/practicaldev/image/fetch/s--Dsq1PAo_--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/324810/0957571a-a8f2-42fd-8d04-c1963dcd5ce3.png
   bg: dark
@@ -16,13 +16,7 @@ header:
   has_social: true
 footer:
   content: '&copy; All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
-    - text: Generated from DEV
-      url: 'https://dev.to/connecting-with-stackbit'
-      new_window: true
+  
 sass:
   indentWidth: 4
   style: nested
